@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=YeonJin's%20GitHub&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="YeonJin's GitHub Header" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=YeonJin's%20GitHub&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Yun's GitHub Header" />
 </div>
 
 <div align="center">
