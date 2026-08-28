@@ -1,4 +1,13 @@
 <div align="left">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📋 Stats</h2>
+
+[![Yun-pix's GitHub stats](https://github-readme-stats-1e9r.vercel.app/api?username=Yun-pix&show_icons=true&theme=radical&count_private=true)](https://github.com/Yun-pix) [![Top Langs](https://github-readme-stats-1e9r.vercel.app/api/top-langs/?username=Yun-pix&layout=compact&theme=radical&count_private=true)](https://github.com/Yun-pix)
+
+</div>
+
+<br>
+
+<div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
 
   <h3>Backend</h3>
@@ -41,15 +50,4 @@
   <a href="mailto:coolpyh77@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:coolpyh77@gmail.com">
   </a>
-</div>
-
-<br>
-
-<div align="left">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📋 Stats</h2>
-
-[![Yun-pix's GitHub stats](https://github-readme-stats-1e9r.vercel.app/api?username=Yun-pix&show_icons=true&theme=radical)](https://github.com/Yun-pix)
-
-[![Top Langs](https://github-readme-stats-1e9r.vercel.app/api/top-langs/?username=Yun-pix&layout=compact&theme=radical)](https://github.com/Yun-pix)
-
 </div>
