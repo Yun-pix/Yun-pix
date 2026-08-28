@@ -1,7 +1,7 @@
 <div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📋 Stats</h2>
 
-[![Yun-pix's GitHub stats](https://github-readme-stats-1e9r.vercel.app/api?username=Yun-pix&show_icons=true&theme=radical&count_private=true)](https://github.com/Yun-pix) [![Top Langs](https://github-readme-stats-1e9r.vercel.app/api/top-langs/?username=Yun-pix&layout=compact&theme=radical&count_private=true)](https://github.com/Yun-pix)
+[![Yun-pix's GitHub stats](https://github-readme-stats-lvky.vercel.app/api?username=Yun-pix&show_icons=true&theme=radical&count_private=true)](https://github.com/Yun-pix) [![Top Langs](https://github-readme-stats-lvky.vercel.app/api/top-langs/?username=Yun-pix&layout=compact&theme=radical&count_private=true)](https://github.com/Yun-pix)
 
 </div>
 
