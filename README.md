@@ -47,6 +47,9 @@
 
 <div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📋 Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Yun-pix&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yun-pix&layout=compact&theme=radical" />
+
+[![Yun-pix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yun-pix&show_icons=true&theme=radical)](https://github.com/Yun-pix/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yun-pix&layout=compact&theme=radical)](https://github.com/Yun-pix/github-readme-stats)
+
 </div>
