@@ -1,10 +1,4 @@
 <div align="center">
-  <h3>지속적인 배움으로 서비스의 가치를 높이는 개발자</h3>
-</div>
-
-<br>
-
-<div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
   <div>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
