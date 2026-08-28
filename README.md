@@ -1,5 +1,5 @@
 <div align="left">
-  <h1>Hi, there! 👋</h1>
+  <h1>👋 Hi, there!</h1>
   <p>🦖 안녕하세요, 꾸준히 성장하는 초보 개발자입니다!! 🦖</p>
 </div>
 
