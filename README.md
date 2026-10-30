@@ -49,27 +49,24 @@
   </a>
 </div>
 
-<br>                                                                                                                                
-                                                                                                                                      
-  <div align="left">                                                                                                                  
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🚀 Projects</h2>                                                    
-                                                                                                                                      
-    <h3>🐥 DuckSpace (덕스페이스)</h3>                                                                                                
-    <p>덕질 굿즈를 수집 · 전시 · 교환하는 팬덤 공간 플랫폼. 굿즈 사진의 배경을 자동으로 지워 나만의 장식장에 배치하고, 다른 유저와    
-  교환하거나 이야기를 나눌 수 있습니다.</p>                                                                                           
-    <ul>
-    <li><b>역할</b>: 백엔드 (3인) — 팝업스토어, 유저 프로필, 배너, 홈 피드</li>                                                     
-      <li><b>기술</b>: Java 21 · Spring Boot · Spring Security(JWT) · JPA · MySQL · AWS S3 · GitHub Actions</li>                      
-      <li><a href="https://github.com/418teapot-sh/DuckSpace">Repository</a> · <a href="https://duckspace.cloud">Service</a></li>     
-    </ul>                                                                                                                             
-                                                                                                                                      
-    <h3>⚔️ 야차철학</h3>                                                                                                              
-    <p>철학 주제로 1:1 실시간 토론을 하는 서비스. 주장 → 공개 → 반론 → 채팅 4분 20초 동안 겨루고, AI 가 4가지 기준으로 판정합니다.    
-  상대가 없으면 AI 봇과 토론할 수 있습니다.</p>                                                                                       
-    <ul>                                                                                                                              
-      <li><b>역할</b>: 백엔드 — WebSocket(STOMP) 실시간 채팅, 방 생성 · 매칭 · 대기 타이머, 토론 진행 타이머, 봇전 · AI 힌트 · 판정   
-  연결, 토론 주제 · 밸런스 게임</li>                                                                                                  
-      <li><b>기술</b>: Java 17 · Spring Boot · WebSocket(STOMP) · Spring Security(JWT) · JPA · MySQL · Redis · Docker</li>            
-      <li><a href="https://github.com/LIKELION14-DemoDay/yacha-backend">Repository</a></li>                                           
-    </ul>                                                                                                                             
-  </div>  
+<br>
+
+<div align="left">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🚀 Projects</h2>
+
+  <h3>🐥 DuckSpace (덕스페이스)</h3>
+  <p>덕질 굿즈를 수집 · 전시 · 교환하는 팬덤 공간 플랫폼. 굿즈 사진의 배경을 자동으로 지워 나만의 장식장에 배치하고, 다른 유저와 교환하거나 이야기를 나눌 수 있습니다.</p>
+  <ul>
+    <li><b>역할</b>: 백엔드 (3인) — 팝업스토어, 유저 프로필, 배너, 홈 피드</li>
+    <li><b>기술</b>: Java 21 · Spring Boot · Spring Security(JWT) · JPA · MySQL · AWS S3 · GitHub Actions</li>
+    <li><a href="https://github.com/418teapot-sh/DuckSpace">Repository</a> · <a href="https://duckspace.cloud">Service</a></li>
+  </ul>
+
+  <h3>⚔️ 야차철학</h3>
+  <p>철학 주제로 1:1 실시간 토론을 하는 서비스. 주장 → 공개 → 반론 → 채팅 4분 20초 동안 겨루고, AI 가 4가지 기준으로 판정합니다. 상대가 없으면 AI 봇과 토론할 수 있습니다.</p>
+  <ul>
+    <li><b>역할</b>: 백엔드 — WebSocket(STOMP) 실시간 채팅, 방 생성 · 매칭 · 대기 타이머, 토론 진행 타이머, 봇전 · AI 힌트 · 판정 연결, 토론 주제 · 밸런스 게임</li>
+    <li><b>기술</b>: Java 17 · Spring Boot · WebSocket(STOMP) · Spring Security(JWT) · JPA · MySQL · Redis · Docker</li>
+    <li><a href="https://github.com/LIKELION14-DemoDay/yacha-backend">Repository</a></li>
+  </ul>
+</div>
